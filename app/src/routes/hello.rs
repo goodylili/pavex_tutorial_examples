@@ -1,3 +1,5 @@
+// routes/hello.rs
+
 use pavex::request::path::PathParams;
 use pavex::response::Response;
 

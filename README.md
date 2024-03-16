@@ -67,4 +67,3 @@ By default, the `dev` profile is used since `APP_PROFILE` is set to `dev` in the
 The `.env` file should not be committed to version control: it is meant to be used for local development only,
 so that each developer can specify their own environment variables for secret values (e.g. database credentials)
 that shouldn't be stored in configuration files (given their sensitive nature).
-# pavex_tutorial_examples
